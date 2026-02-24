@@ -36,7 +36,7 @@ O sistema possui três categorias:
 - 🔄 Alteração de categoria de usuário  
 
 
-## 📚 Contexto acadêmico
+## 📚 Contexto
 
 Projeto desenvolvido para a disciplina MI - Algoritmos, com foco na prática de lógica de programação e construção de sistemas interativos.
 
