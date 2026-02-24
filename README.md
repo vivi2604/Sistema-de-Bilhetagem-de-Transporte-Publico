@@ -39,3 +39,7 @@ O sistema possui três categorias:
 ## 📚 Contexto acadêmico
 
 Projeto desenvolvido para a disciplina MI - Algoritmos, com foco na prática de lógica de programação e construção de sistemas interativos.
+
+## 📄 Relatório completo
+
+Para mais detalhes sobre o desenvolvimento do projeto, acesse o relatório completo
